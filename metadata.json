@@ -1,0 +1,6 @@
+{
+  "name": "Catatan saku",
+  "description": "Aplikasi pencatat keuangan pribadi yang mudah digunakan. Dilengkapi dengan laporan bulanan otomatis, export dokumen PDF, dan sistem enkripsi data dalam perangkat (hardware-backed KeyStore) untuk privasi maksimal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
